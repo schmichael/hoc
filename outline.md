@@ -32,6 +32,7 @@ primitive     primitive    new primitive!
            |
         pattern
 ```
+* 1/3 continued...
   * Modern examples:
     * Akka's Actor model is exposed via primitives in Erlang, Julia follows suit
     * Go exposes CSP as primitives
