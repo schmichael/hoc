@@ -21,7 +21,8 @@
 * To answer that we must understand 3 concepts
 * 1/3 Primitives vs. Patterns vs. Models
 * Primitive Evolution
-  * Example: ```
+  * Example:
+```
  mutex + condition_variable = monitor
     ^             ^              ^
     |             |              |
